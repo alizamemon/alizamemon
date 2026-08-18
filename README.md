@@ -92,11 +92,6 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alizamemon&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
-<!-- 🐍 Contribution Snake — animated, updates automatically via GitHub Action (setup steps below) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
 ---
 
 ### 🏆 Achievements
