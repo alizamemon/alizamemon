@@ -1,10 +1,11 @@
 <!-- ============================================================
-  Aliza Memon — GitHub Profile README (Animation-heavy version)
+  Aliza Memon — GitHub Profile README
 ============================================================ -->
 
 <div align="center">
 
-<!-- Custom banner image -->
+<!-- Custom banner image — upload it to your repo (e.g. assets/banner.png)
+     and swap the src below, OR host it on imgur/postimages and paste the link -->
 <img src="assets/banner.png" alt="Aliza Memon banner" width="100%" />
 
 <br/>
@@ -27,14 +28,9 @@
   <img src="https://komarev.com/ghpvc/?username=alizamemon&label=Profile%20Views&color=b625d1&style=for-the-badge" alt="Views" />
 </p>
 
-<!-- Animated wave divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" />
-
 ---
 
 ### 💫 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```yaml
 name: Aliza Memon
@@ -53,10 +49,6 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
 - 🥈 2nd Position — Mindscape-VR, 40th IEEEP All Pakistan Students Seminar
 - 🌱 Currently exploring applied ML for intrusion detection & secure system design
 - 💬 Ask me about **cryptography, secure system design, Java/Spring Boot or React/Three.js**
-
-<br clear="right"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" />
 
 ---
 
@@ -88,16 +80,9 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" />
-
 ---
 
 ### 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alizamemon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizamemon&layout=compact&theme=tokyonight&langs_count=8"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alizamemon&theme=tokyonight&hide_border=true" alt="streak stats"/>
@@ -107,29 +92,20 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alizamemon&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
-<!-- 🐍 Contribution Snake — needs the GitHub Action (snake.yml) to actually generate this file.
-     See setup instructions in chat. Without the action, this image will appear broken. -->
+<!-- 🐍 Contribution Snake — animated, updates automatically via GitHub Action (setup steps below) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" />
-
 ---
 
 ### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alizamemon&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 - 🥇 Merit Based Scholarship Awardee — Sindh Education & Endowment Fund (SEEF)
 - 🥈 Silver Medal — Research Thesis Presentation, 39th Multi-topic International Symposium 2025
 - 🥈 2nd Position — Innovative Research Project (Mindscape-VR), 40th IEEEP All Pakistan Students Seminar
 - 🌟 Best IoT Project — Computer Engineering In-house Project Exhibition (CIPE'25)
 - 🥈 2nd Position — Computer Engineering Workshop Project, SSUET
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" />
 
 ---
 
@@ -150,14 +126,6 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
 
 ---
 
-### 🎲 Random Dev Quote (refreshes on every page load)
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="left">
@@ -166,6 +134,4 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
 <a href="https://portfolioaliza.netlify.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="30" width="30" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
+
