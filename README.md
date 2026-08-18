@@ -1,11 +1,10 @@
 <!-- ============================================================
-  Aliza Memon — GitHub Profile README
+  Aliza Memon — GitHub Profile README (Animation-heavy version)
 ============================================================ -->
 
 <div align="center">
 
-<!-- Custom banner image — upload it to your repo (e.g. assets/banner.png)
-     and swap the src below, OR host it on imgur/postimages and paste the link -->
+<!-- Custom banner image -->
 <img src="assets/banner.png" alt="Aliza Memon banner" width="100%" />
 
 <br/>
@@ -28,9 +27,14 @@
   <img src="https://komarev.com/ghpvc/?username=alizamemon&label=Profile%20Views&color=b625d1&style=for-the-badge" alt="Views" />
 </p>
 
+<!-- Animated wave divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" />
+
 ---
 
 ### 💫 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```yaml
 name: Aliza Memon
@@ -49,6 +53,10 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
 - 🥈 2nd Position — Mindscape-VR, 40th IEEEP All Pakistan Students Seminar
 - 🌱 Currently exploring applied ML for intrusion detection & secure system design
 - 💬 Ask me about **cryptography, secure system design, Java/Spring Boot or React/Three.js**
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" />
 
 ---
 
@@ -80,33 +88,7 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
 
 </div>
 
----
-
-### 🔐 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/alizamemon/Cyber_Assurance_Framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizamemon&repo=Cyber_Assurance_Framework&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/alizamemon/ML--Intrusion-Detection-Prevention-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizamemon&repo=ML--Intrusion-Detection-Prevention-System&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/alizamemon/Secure_ML_chat_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizamemon&repo=Secure_ML_chat_app&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/alizamemon/Secure_Medical_Image_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizamemon&repo=Secure_Medical_Image_System&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-| Project | Highlights |
-|---|---|
-| 🛡️ **Cyber Assurance Framework** | STRIDE threat modeling, encryption, RBAC — mapped to ISO/IEC 27001 & GDPR |
-| 🧠 **ML-Based Intrusion Detection (IDPS)** | CICIDS 2017 dataset, Random Forest, SMOTE balancing, real-time IP blacklisting |
-| 💬 **Secure ML Chat App** | Custom RSA handshake + per-session AES-EAX encryption, TF-IDF spam classifier |
-| 🏥 **Secure Medical Image Storage** | AES-256 + SHA-256, RBAC, secure key management for medical data |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" />
 
 ---
 
@@ -125,10 +107,13 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alizamemon&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
-<!-- 🐍 Contribution Snake — animated, updates automatically via GitHub Action (setup steps below) -->
+<!-- 🐍 Contribution Snake — needs the GitHub Action (snake.yml) to actually generate this file.
+     See setup instructions in chat. Without the action, this image will appear broken. -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" />
 
 ---
 
@@ -143,6 +128,8 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
 - 🥈 2nd Position — Innovative Research Project (Mindscape-VR), 40th IEEEP All Pakistan Students Seminar
 - 🌟 Best IoT Project — Computer Engineering In-house Project Exhibition (CIPE'25)
 - 🥈 2nd Position — Computer Engineering Workshop Project, SSUET
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" />
 
 ---
 
@@ -163,6 +150,14 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
 
 ---
 
+### 🎲 Random Dev Quote (refreshes on every page load)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
 ### 🤝 Let's Connect
 
 <p align="left">
@@ -174,4 +169,3 @@ fun_fact: "I balance engineering with baking cookies and muffins 🍪"
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
-
