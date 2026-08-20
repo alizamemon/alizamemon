@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<img src="./aliza-banner.svg?v=1" alt="Aliza Memon — Computer Engineer & Cybersecurity Researcher" width="100%"/>
+<img src="assets/aliza-banner.svg?v=1" alt="Aliza Memon — Computer Engineer & Cybersecurity Researcher" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card -->
-<img src="./aliza-lanyard.svg?v=1" alt="Aliza Memon ID badge" width="300"/>
+<img src="assets/aliza-lanyard.svg?v=1" alt="Aliza Memon ID badge" width="300"/>
 
 </td>
 <td width="62%" valign="middle">
