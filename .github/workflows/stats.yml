@@ -3,7 +3,7 @@ name: Generate GitHub Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Har raat 12 baje auto-update hoga
+    - cron: "0 0 * * *" # Har raat auto-update hoga
 
 jobs:
   generate-stats:
@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub Stats Images
-        uses: jstrieb/github-stats@main
+        uses: jstrieb/github-stats@3a9719323c2a6f233f28d227c8d3567781b0a8bb
         with:
           user: ${{ github.repository_owner }}
         env:
