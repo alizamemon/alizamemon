@@ -1,0 +1,80 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0b2e"/>
+      <stop offset="45%" stop-color="#3a1361"/>
+      <stop offset="100%" stop-color="#6a1b7d"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff8fd8"/>
+      <stop offset="50%" stop-color="#d46fe0"/>
+      <stop offset="100%" stop-color="#8f6fff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <!-- floating binary / code particles -->
+  <g font-family="Fira Code, monospace" font-size="14" fill="#d46fe0" opacity="0.35">
+    <text x="60" y="40">01001</text>
+    <text x="1040" y="60">11010</text>
+    <text x="90" y="250">&lt;/&gt;</text>
+    <text x="1080" y="230">AES-256</text>
+    <text x="40" y="150">0x1F</text>
+    <text x="1100" y="140">RSA</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- floating lock icons -->
+  <g fill="none" stroke="#ff8fd8" stroke-width="2" opacity="0.6">
+    <g transform="translate(150,60)">
+      <rect x="0" y="8" width="20" height="16" rx="3"/>
+      <path d="M4 8 V4 a6 6 0 0 1 12 0 V8"/>
+      <animateTransform attributeName="transform" type="translate" values="150,60; 150,75; 150,60" dur="3.5s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(1000,180)">
+      <rect x="0" y="8" width="20" height="16" rx="3"/>
+      <path d="M4 8 V4 a6 6 0 0 1 12 0 V8"/>
+      <animateTransform attributeName="transform" type="translate" values="1000,180; 1000,195; 1000,180" dur="3s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- sparkles -->
+  <g fill="#ffffff">
+    <circle cx="200" cy="90" r="2">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="70" r="2.5">
+      <animate attributeName="opacity" values="1;0.1;1" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="100" r="2">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="80" cy="200" r="2">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- main title -->
+  <text x="600" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="64" font-weight="bold" fill="url(#textGrad)" filter="url(#glow)">
+    Aliza Memon
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="195" text-anchor="middle" font-family="Fira Code, monospace" font-size="20" fill="#f3e8ff">
+    Computer Engineer • Cybersecurity Researcher • Java Developer
+  </text>
+
+  <!-- tagline -->
+  <text x="600" y="230" text-anchor="middle" font-family="Fira Code, monospace" font-size="15" fill="#ff8fd8" opacity="0.9">
+    "I don't just write code — I secure it."
+  </text>
+</svg>
