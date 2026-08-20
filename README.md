@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="https://github-readme-stats.vercel.app/api?username=alizamemon&show_icons=true&hide_border=true&bg_color=170e28&title_color=ff8fd8&icon_color=d46fe0&text_color=f3e8ff&ring_color=8f6fff" alt="GitHub Stats" height="185"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizamemon&layout=compact&hide_border=true&bg_color=170e28&title_color=ff8fd8&text_color=f3e8ff" alt="Top Languages" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alizamemon&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizamemon&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
@@ -55,7 +55,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=alizamemon&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alizamemon&theme=tokyonight&margin-w=15&row=1" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
