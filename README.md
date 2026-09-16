@@ -7,32 +7,22 @@
 
 <br/>
 
-<div align="center">
+<table align="center" border="0">
+<tr>
+<td width="35%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card -->
-<img src="assets/aliza-lanyard.svg?v=1" alt="Aliza Memon ID badge" width="300"/>
+<img src="assets/aliza-lanyard.svg?v=1" alt="Aliza Memon ID badge" width="290"/>
 
-<br/><br/>
+</td>
+<td width="65%" align="center" valign="middle">
 
-### 💫 About Me
+<!-- 🖥️ Animated typing terminal -->
+<img src="assets/aliza-about-terminal.svg?v=1" alt="Aliza Memon — About Me terminal" width="100%"/>
 
-<table align="center" border="0">
-<tr><td>
-
-- 🔭 Trainee Engineer @ **Utopia Industries** — Java, Spring Boot, IoT
-- 🔐 Research interest: **Post-Quantum Cryptography** & Privacy-Preserving Systems
-- 🎓 B.E. Computer Engineering — Sir Syed University of Engineering & Technology
-- 📍 Karachi, Pakistan
-- 💬 Ask me about **cryptography, secure system design, Java/Spring Boot, or React/Three.js**
-
-</td></tr>
+</td>
+</tr>
 </table>
-
-<br/>
-
-> 💗 *"I don't just write code — I secure it."*
-
-</div>
 
 <br/>
 
@@ -61,7 +51,7 @@
 
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/snake.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
