@@ -35,7 +35,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=alizamemon&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=alizamemon&theme=react&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&stroke=112240" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -57,17 +57,37 @@
 
 ### 📫 Let's Connect
 
-<a href="mailto:alizanisar11@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/alizamemon"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/aliza-memon-engr/"><img src="https://img.shields.io/badge/LinkedIn-ff7eb6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolioaliza.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-e879f9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<p align="center">
+  <a href="mailto:alizanisar11@gmail.com" title="Email">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="46" height="46" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aliza-memon-engr/" title="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="46" height="46" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/alizamemon" title="GitHub">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="46" height="46" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolioaliza.netlify.app/" title="Portfolio">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="46" height="46" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:alizanisar11@gmail.com"><img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/aliza-memon-engr/"><img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda" alt="LinkedIn"/></a>
+  <a href="https://github.com/alizamemon"><img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" alt="GitHub"/></a>
+  <a href="https://portfolioaliza.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=netlify&logoColor=64ffda" alt="Portfolio"/></a>
+</p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=alizamemon&color=0a192f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=alizamemon&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-*🔐 Always learning, always securing.* 💗
+*🔐 Always learning, always securing.* 💚
 
 </div>
