@@ -61,7 +61,7 @@
 
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/snake.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
