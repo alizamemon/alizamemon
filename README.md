@@ -7,32 +7,32 @@
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td width="38%" align="center" valign="middle">
+<div align="center">
 
 <!-- 🪪 Swinging Lanyard ID Card -->
 <img src="assets/aliza-lanyard.svg?v=1" alt="Aliza Memon ID badge" width="300"/>
 
-</td>
-<td width="62%" valign="middle">
+<br/><br/>
 
-### 🔐 Featured Projects
+### 💫 About Me
 
-| 🛡️ Project | 💻 Tech | ⭐ |
-|:---|:---:|:---:|
-| [🧩 Cyber Assurance Framework](https://github.com/alizamemon/Cyber_Assurance_Framework) | `STRIDE` `RBAC` `Encryption` | — |
-| [🧠 ML-Based Intrusion Detection (IDPS)](https://github.com/alizamemon/ML--Intrusion-Detection-Prevention-System) | `Python` `Random Forest` `SMOTE` | — |
-| [💬 Secure ML Chat App](https://github.com/alizamemon/Secure_ML_chat_app) | `RSA` `AES-EAX` `ML` | — |
-| [🏥 Secure Medical Image System](https://github.com/alizamemon/Secure_Medical_Image_System) | `AES-256` `SHA-256` `RBAC` | — |
+<table align="center" border="0">
+<tr><td>
+
+- 🔭 Trainee Engineer @ **Utopia Industries** — Java, Spring Boot, IoT
+- 🔐 Research interest: **Post-Quantum Cryptography** & Privacy-Preserving Systems
+- 🎓 B.E. Computer Engineering — Sir Syed University of Engineering & Technology
+- 📍 Karachi, Pakistan
+- 💬 Ask me about **cryptography, secure system design, Java/Spring Boot, or React/Three.js**
+
+</td></tr>
+</table>
 
 <br/>
 
 > 💗 *"I don't just write code — I secure it."*
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="https://github-readme-stats.vercel.app/api?username=alizamemon&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizamemon&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="180"/>
+<img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/stats.svg" alt="GitHub Stats" height="185"/>
+<img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/top-langs.svg" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -50,18 +50,18 @@
 <br/><br/>
 
 <!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alizamemon&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+<img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/activity-graph.svg" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
 <!-- 🏆 Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=alizamemon&theme=tokyonight&margin-w=15&row=1" alt="Trophies" width="95%"/>
+<img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/trophy.svg" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/alizamemon/alizamemon/output/snake.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
