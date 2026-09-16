@@ -75,13 +75,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:alizanisar11@gmail.com"><img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/aliza-memon-engr/"><img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda" alt="LinkedIn"/></a>
-  <a href="https://github.com/alizamemon"><img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" alt="GitHub"/></a>
-  <a href="https://portfolioaliza.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=netlify&logoColor=64ffda" alt="Portfolio"/></a>
-</p>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=alizamemon&color=0a192f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
